@@ -19,7 +19,7 @@ ROT13
 ### Beginner/Intermediate
 
 Higher or Lower Guessing Game  
-[wc](https://en.wikipedia.org/wiki/Wc_(Unix\)) clone  
+[wc](https://en.wikipedia.org/wiki/Wc_(Unix)) clone  
 Given an array of stock values over time find the period of time where the stocks could have made the most money  
 Hangman  
 Encryption Collection ([Implement the tools from the Rumkin Collection](http://rumkin.com/tools/cipher/))  
