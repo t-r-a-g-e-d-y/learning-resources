@@ -44,6 +44,7 @@ Telnet Server
 Towers of Hanoi  
 Maze Generator  
 Sudoko Generator/Solver  
+Brainfuck Interpreter  
 Chip-8 Emulator  
 Matrix Arithmetic  
 Graphing Calculator  
@@ -55,7 +56,6 @@ Go
 RPG Engine  
 Roguelike Game  
 TI-84 Emulator  
-Brainfuck Interpreter  
 Basic LISP Interpreter  
 Procedurally Generated 3D Scenes  
 Raytracer  
