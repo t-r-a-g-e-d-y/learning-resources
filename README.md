@@ -1,6 +1,5 @@
-Learn to use [git](https://git-scm.com/) and commit early and often.
-
-Git Resources:  
+#### Git Resources
+[git](https://git-scm.com/)  
 [Git Tutorial](https://git-scm.com/docs/gittutorial)  
 [Pro Git](https://git-scm.com/docs/gittutorial)  
 [About Git](https://git-scm.com/about)  
